@@ -32,3 +32,4 @@ D:\Application Development\FirstWeek\FirstWeek\FirstWeek\obj\Debug\net8.0\refint
 D:\Application Development\FirstWeek\FirstWeek\FirstWeek\obj\Debug\net8.0\FirstWeek.pdb
 D:\Application Development\FirstWeek\FirstWeek\FirstWeek\obj\Debug\net8.0\FirstWeek.genruntimeconfig.cache
 D:\Application Development\FirstWeek\FirstWeek\FirstWeek\obj\Debug\net8.0\ref\FirstWeek.dll
+D:\Application Development\FirstWeek\FirstWeek\FirstWeek\obj\Debug\net8.0\FirstWeek.sourcelink.json
